@@ -1,0 +1,638 @@
+BR1 1AA,51.401546,0.015415,Greater London,Bromley
+BR1 1BT,51.39914,0.012563,Greater London,Bromley
+BR1 2AA,51.403386,0.043619,Greater London,Bromley
+BR1 3AA,51.406882,0.020438,Greater London,Bromley
+BR1 4BY,51.417289,-0.001741,Greater London,Lewisham
+BR1 4TR,51.430036,-0.00622,Greater London,Lewisham
+BR1 5SP,51.42279,-0.122899,Greater London,Lambeth
+BR2 0AA,51.407775,-0.003321,Greater London,Bromley
+BR2 6AA,51.347723,0.043539,Greater London,Bromley
+BR2 6AE,51.35045,0.034039,Greater London,Bromley
+BR2 6AJ,51.363159,0.024043,Greater London,Bromley
+BR3 1AA,51.407682,-0.032385,Greater London,Bromley
+BR3 1AF,51.406312,-0.028489,Greater London,Bromley
+BR3 1BW,51.422417,-0.037505,Greater London,Bromley
+BR3 1SY,51.423099,-0.015512,Greater London,Lewisham
+BR3 2SR,51.391271,-0.001121,Greater London,Bromley
+BR3 3BZ,51.378711,-0.027304,Greater London,Croydon
+BR5 1AA,51.38637,0.06475,Greater London,Bromley
+BR5 1BS,51.376829,0.099138,Greater London,Bromley
+BR5 1FA,51.375194,0.077421,Greater London,Bromley
+BR5 1GU,51.391071,0.093278,Greater London,Bromley
+BR5 2AJ,51.386316,0.103668,Greater London,Bromley
+BR5 2SP,51.401379,0.090643,Greater London,Bromley
+BR5 4HB,51.369232,0.136792,Greater London,Bromley
+BR7 5EN,51.425513,0.052632,Greater London,Bromley
+BR7 6DN,51.42511,0.061749,Greater London,Greenwich
+CM13 3JA,51.58931,0.266958,Greater London,Havering
+CM14 5NG,51.609021,0.260054,Greater London,Havering
+CM23 3WE,51.528566,-0.116476,Greater London,Camden
+CR0 0AA,51.34034,-0.005061,Greater London,Croydon
+CR0 0EN,51.353077,-0.01851,Greater London,Croydon
+CR0 0WZ,51.375716,-0.091863,Greater London,Croydon
+CR0 0XB,51.375212,-0.0996,Greater London,Croydon
+CR0 0XL,51.381356,-0.107494,Greater London,Croydon
+CR0 0XZ,51.356521,-0.117739,Greater London,Croydon
+CR0 1BE,51.366889,-0.098767,Greater London,Croydon
+CR0 2AX,51.38351,-0.097805,Greater London,Croydon
+CR0 2HS,51.394673,-0.093562,Greater London,Croydon
+CR0 2PF,51.388829,-0.106395,Greater London,Croydon
+CR0 3AQ,51.390131,-0.135997,Greater London,Sutton
+CR0 4FA,51.361872,-0.121645,Greater London,Sutton
+CR0 5AH,51.362689,-0.028539,Greater London,Croydon
+CR0 5AZ,51.36856,-0.084848,Greater London,Croydon
+CR0 5ED,51.372898,-0.049078,Greater London,Croydon
+CR0 6AF,51.378669,-0.079986,Greater London,Croydon
+CR0 6BW,51.391138,-0.078084,Greater London,Croydon
+CR0 9AA,51.346117,-0.033989,Greater London,Croydon
+CR2 0AA,51.347927,-0.089572,Greater London,Croydon
+CR2 0AY,51.346677,-0.103409,Greater London,Croydon
+CR2 1BA,51.333772,-0.112325,Greater London,Croydon
+CR2 1XB,51.318286,-0.100045,Greater London,Croydon
+CR2 3NG,51.331604,-0.145431,Greater London,Sutton
+CR2 4AN,51.319486,-0.118652,Greater London,Croydon
+CR2 4DD,51.32513,-0.13421,Greater London,Croydon
+CR3 9PP,51.319163,0.00906,Greater London,Bromley
+CR4 1AA,51.410383,-0.147321,Greater London,Merton
+CR4 1AZ,51.405204,-0.17492,Greater London,Merton
+CR4 1BD,51.402958,-0.136177,Greater London,Merton
+CR4 1BS,51.406443,-0.151262,Greater London,Merton
+CR4 2AE,51.415819,-0.153875,Greater London,Merton
+CR4 3BD,51.410051,-0.177804,Greater London,Merton
+CR4 3JB,51.416338,-0.164065,Greater London,Merton
+CR4 4AN,51.385475,-0.1652,Greater London,Sutton
+CR4 4BA,51.396856,-0.173542,Greater London,Merton
+CR4 6BE,51.409423,-0.119277,Greater London,Croydon
+CR4 7JG,51.398315,-0.099606,Greater London,Croydon
+CR4 8AG,51.405667,-0.109366,Greater London,Croydon
+CR4 8SB,51.395502,-0.092535,Greater London,Croydon
+DA1 3LD,51.444759,0.182007,Greater London,Bexley
+DA1 4RA,51.463855,0.18178,Greater London,Bexley
+DA14 4AA,51.426481,0.105038,Greater London,Bexley
+DA14 4FD,51.43585,0.101123,Greater London,Bexley
+DA14 4NN,51.43865,0.1179,Greater London,Bexley
+DA14 5AN,51.415103,0.130502,Greater London,Bexley
+DA14 6AG,51.425225,0.099859,Greater London,Bexley
+DA15 8DN,51.443565,0.087044,Greater London,Greenwich
+DA15 8PA,51.453067,0.100863,Greater London,Bexley
+DA15 9PW,51.450074,0.117738,Greater London,Bexley
+DA16 1AR,51.475465,0.119,Greater London,Bexley
+DA16 1DE,51.471809,0.116282,Greater London,Bexley
+DA16 3RP,51.467359,0.080066,Greater London,Greenwich
+DA17 5AA,51.49077,0.147253,Greater London,Bexley
+DA17 6FA,51.485254,0.163097,Greater London,Bexley
+DA17 6LL,51.478382,0.151438,Greater London,Bexley
+DA18 4AA,51.496327,0.149272,Greater London,Bexley
+DA18 4AD,51.476455,0.195702,Greater London,Bexley
+DA5 1HD,51.449222,0.13701,Greater London,Bexley
+E1 0AA,51.512497,-0.052098,Greater London,Tower Hamlets
+E1 0BJ,51.510176,-0.061262,Greater London,Tower Hamlets
+E1 0EN,51.517164,-0.040743,Greater London,Tower Hamlets
+E1 0EP,51.5156,-0.0478,Greater London,Tower Hamlets
+E1 1AQ,51.517418,-0.069083,Greater London,Tower Hamlets
+E1 4AA,51.522213,-0.045326,Greater London,Tower Hamlets
+E1 5AY,51.523466,-0.058477,Greater London,Tower Hamlets
+E1 6AN,51.518895,-0.078378,City of London,City of London
+E1 6AW,51.523753,-0.075922,Greater London,Hackney
+E1 6FU,51.523653,-0.07244,Greater London,Tower Hamlets
+E1 7AA,51.515567,-0.075635,City of London,City of London
+E1 7AX,51.515526,-0.078592,City of London,City of London
+E1 8AR,51.511193,-0.073295,City of London,City of London
+E1 9AA,51.508575,-0.073262,Greater London,Tower Hamlets
+E10 5AA,51.572162,-0.008666,Greater London,Waltham Forest
+E10 5PP,51.55932,-0.007553,Greater London,Waltham Forest
+E10 5QB,51.556813,-0.005008,Greater London,Waltham Forest
+E10 6AA,51.572758,-0.008279,Greater London,Waltham Forest
+E10 6AL,51.577795,-0.008362,Greater London,Waltham Forest
+E10 6AR,51.574931,-0.012874,Greater London,Waltham Forest
+E10 7AS,51.574332,-0.037523,Greater London,Waltham Forest
+E11 1AA,51.564032,0.008813,Greater London,Waltham Forest
+E11 1PA,51.584393,0.026455,Greater London,Redbridge
+E11 1PH,51.584225,0.011147,Greater London,Waltham Forest
+E11 1SX,51.585346,0.024895,Greater London,Redbridge
+E11 2JE,51.576088,0.033013,Greater London,Redbridge
+E11 3DD,51.563626,0.014104,Greater London,Waltham Forest
+E11 4WH,51.532095,-0.005181,Greater London,Newham
+E12 5AA,51.551884,0.0462,Greater London,Newham
+E12 5AE,51.554565,0.062044,Greater London,Newham
+E12 6BJ,51.546296,0.054098,Greater London,Newham
+E12 6LJ,51.540467,0.056287,Greater London,Newham
+E13 0AA,51.529278,0.0233,Greater London,Newham
+E13 0AF,51.533702,0.01757,Greater London,Newham
+E13 0AN,51.525357,0.024856,Greater London,Newham
+E13 0EE,51.524906,0.022832,Greater London,Newham
+E13 0PZ,51.537207,0.023436,Greater London,Newham
+E13 8BJ,51.520804,0.019825,Greater London,Newham
+E13 9AB,51.536554,0.035187,Greater London,Newham
+E13 9AT,51.535433,0.035541,Greater London,Newham
+E13 9QF,51.525111,0.039564,Greater London,Newham
+E14 0AA,51.509978,-0.01501,Greater London,Tower Hamlets
+E14 0BD,51.51353,-0.001755,Greater London,Tower Hamlets
+E14 0DX,51.513197,-0.028302,Greater London,Tower Hamlets
+E14 0FG,51.508256,0.008462,Greater London,Tower Hamlets
+E14 3AA,51.489866,-0.018995,Greater London,Tower Hamlets
+E14 3QS,51.494323,-0.024624,Greater London,Tower Hamlets
+E14 7FA,51.512312,-0.035604,Greater London,Tower Hamlets
+E15 1AD,51.548538,0.009818,Greater London,Newham
+E15 1EQ,51.545523,0.005791,Greater London,Newham
+E15 2DU,51.542279,-0.019258,Greater London,Tower Hamlets
+E15 2EE,51.547711,-0.020868,Greater London,Hackney
+E15 2FB,51.553134,-0.018238,Greater London,Hackney
+E16 1AG,51.505982,0.015769,Greater London,Newham
+E16 1FR,51.508488,0.03519,Greater London,Newham
+E16 2BF,51.507578,0.075816,Greater London,Newham
+E17 0SA,51.591237,-0.013534,Greater London,Waltham Forest
+E17 3AX,51.583782,-0.019359,Greater London,Waltham Forest
+E17 4AG,51.589723,-0.022784,Greater London,Waltham Forest
+E17 4AH,51.593161,0.003413,Greater London,Waltham Forest
+E17 5BB,51.596547,-0.024969,Greater London,Waltham Forest
+E18 1DB,51.598003,0.034569,Greater London,Redbridge
+E2 7QR,51.529213,-0.075418,Greater London,Hackney
+E3 2AB,51.527274,-0.029597,Greater London,Tower Hamlets
+E3 2TT,51.526372,-0.020281,Greater London,Tower Hamlets
+E3 3AE,51.5188,-0.017163,Greater London,Tower Hamlets
+E4 0AD,51.63325,0.008156,Greater London,Waltham Forest
+E4 6AE,51.629987,-0.004574,Greater London,Waltham Forest
+E4 6BP,51.622937,0.006993,Greater London,Waltham Forest
+E4 6NL,51.620089,-0.00105,Greater London,Waltham Forest
+E4 6SH,51.617546,-0.01812,Greater London,Waltham Forest
+E4 7XB,51.642399,-0.014262,Greater London,Enfield
+E5 0FB,51.560014,-0.057556,Greater London,Hackney
+E5 0LQ,51.551461,-0.048285,Greater London,Hackney
+E5 8BW,51.563445,-0.060007,Greater London,Hackney
+E5 8ES,51.362226,-0.193985,Greater London,Sutton
+E5 8GZ,51.550073,-0.059998,Greater London,Hackney
+E5 9AB,51.572222,-0.069301,Greater London,Hackney
+E6 1BA,51.537922,0.04752,Greater London,Newham
+E8 1AE,51.543513,-0.062974,Greater London,Hackney
+E8 1BF,51.546919,-0.066104,Greater London,Hackney
+E8 2AP,51.551959,-0.064722,Greater London,Hackney
+E8 2BB,51.54632,-0.076715,Greater London,Islington
+E8 2JU,51.545412,-0.076177,Greater London,Hackney
+E8 3FG,51.53833,-0.056806,Greater London,Hackney
+EC1A 1AA,51.525136,-0.111183,Greater London,Islington
+EC1A 1AE,51.51521,-0.099069,City of London,City of London
+EC1A 1AL,51.517883,-0.097516,City of London,City of London
+EC1A 2AL,51.517473,-0.103327,City of London,City of London
+EC1A 2AP,51.517147,-0.107636,City of London,City of London
+EC1A 4AA,51.515226,-0.096733,City of London,City of London
+EC1A 4AE,51.520793,-0.097729,Greater London,Islington
+EC1A 4AJ,51.521025,-0.097212,City of London,City of London
+EC1M 3AB,51.521357,-0.106597,Greater London,Camden
+EC1M 7AA,51.522476,-0.097411,City of London,City of London
+EC1V 1AA,51.527447,-0.088297,Greater London,Hackney
+EC1Y 4AG,51.520686,-0.090178,City of London,City of London
+EC2M 1BB,51.516838,-0.084732,City of London,City of London
+EC2M 1RJ,51.515851,-0.083188,City of London,City of London
+EC2N 1AR,51.514541,-0.08614,City of London,City of London
+EC2N 4AE,51.514054,-0.083263,City of London,City of London
+EC2P 2AH,51.513272,-0.090502,City of London,City of London
+EC2P 2AJ,51.517168,-0.091146,City of London,City of London
+EC3A 2AB,51.512209,-0.080458,City of London,City of London
+EC3M 1AA,51.510603,-0.085599,City of London,City of London
+EC3M 1AB,51.51068,-0.085956,City of London,City of London
+EC3M 1AL,51.510437,-0.083718,City of London,City of London
+EC4A 2AH,51.513968,-0.11127,Greater London,Westminster
+EC4M 5SA,51.512467,-0.0963,City of London,City of London
+EC4M 6GB,51.511545,-0.094898,City of London,City of London
+EC4N 5AH,51.511475,-0.090577,City of London,City of London
+EN1 1AA,51.651916,-0.077106,Greater London,Enfield
+EN1 1BA,51.641864,-0.068975,Greater London,Enfield
+EN1 1EL,51.641155,-0.061446,Greater London,Enfield
+EN1 1SA,51.65235,-0.074008,Greater London,Enfield
+EN1 1YA,51.651567,-0.078913,Greater London,Enfield
+EN1 3LD,51.662132,-0.078828,Greater London,Enfield
+EN1 4DS,51.668849,-0.054769,Greater London,Enfield
+EN2 7AB,51.65376,-0.090964,Greater London,Enfield
+EN2 7LT,51.645507,-0.122271,Greater London,Enfield
+EN3 5AA,51.656059,-0.049201,Greater London,Enfield
+EN3 5UA,51.668802,-0.041105,Greater London,Enfield
+EN4 0AD,51.643239,-0.171145,Greater London,Barnet
+EN4 0LY,51.656863,-0.185676,Greater London,Barnet
+EN4 8AA,51.648761,-0.17007,Greater London,Barnet
+EN4 8ER,51.633066,-0.159474,Greater London,Barnet
+EN5 2AB,51.641252,-0.240626,Greater London,Barnet
+HA0 1AA,51.54007,-0.30348,Greater London,Brent
+HA0 1AL,51.547777,-0.312886,Greater London,Ealing
+HA0 1AZ,51.539868,-0.305694,Greater London,Ealing
+HA0 1BB,51.551185,-0.307235,Greater London,Brent
+HA0 1EP,51.541931,-0.3022,Greater London,Brent
+HA0 1WE,51.537847,-0.28414,Greater London,Ealing
+HA0 2NH,51.558129,-0.321764,Greater London,Brent
+HA1 1AA,51.579677,-0.335836,Greater London,Harrow
+HA1 1AE,51.585855,-0.338425,Greater London,Harrow
+HA1 1NR,51.585518,-0.343822,Greater London,Harrow
+HA1 3AR,51.562035,-0.332577,Greater London,Harrow
+HA1 3DH,51.576161,-0.34336,Greater London,Harrow
+HA1 4LE,51.585715,-0.361728,Greater London,Harrow
+HA2 0BA,51.567678,-0.35027,Greater London,Harrow
+HA2 6PA,51.604549,-0.358162,Greater London,Harrow
+HA2 7DW,51.576641,-0.370078,Greater London,Harrow
+HA2 7QX,51.586794,-0.37468,Greater London,Harrow
+HA2 8BG,51.56174,-0.362229,Greater London,Harrow
+HA2 9HW,51.561708,-0.381346,Greater London,Hillingdon
+HA3 0AJ,51.581027,-0.302634,Greater London,Brent
+HA3 0HA,51.582386,-0.317104,Greater London,Harrow
+HA3 0PS,51.572266,-0.295009,Greater London,Brent
+HA3 0PT,51.572103,-0.294972,Greater London,Brent
+HA3 5AE,51.597443,-0.33884,Greater London,Harrow
+HA3 5EP,51.603366,-0.337988,Greater London,Harrow
+HA3 7LG,51.603155,-0.325722,Greater London,Harrow
+HA3 8RL,51.597524,-0.312978,Greater London,Harrow
+HA3 8UE,51.590686,-0.308944,Greater London,Harrow
+HA4 0AA,51.573461,-0.413585,Greater London,Hillingdon
+HA4 0DY,51.562736,-0.39591,Greater London,Hillingdon
+HA4 0RP,51.580543,-0.444181,Greater London,Hillingdon
+HA4 7BH,51.584903,-0.432658,Greater London,Hillingdon
+HA5 1AA,51.594056,-0.383279,Greater London,Harrow
+HA5 2AL,51.593295,-0.397504,Greater London,Hillingdon
+HA6 1AA,51.611575,-0.423349,Greater London,Hillingdon
+HA7 1AH,51.606373,-0.29997,Greater London,Harrow
+HA7 2QT,51.614198,-0.313197,Greater London,Harrow
+HA7 4LS,51.625144,-0.295903,Greater London,Barnet
+HA8 0AA,51.607745,-0.271974,Greater London,Barnet
+HA8 8BY,51.621418,-0.264405,Greater London,Barnet
+HA9 0AA,51.558132,-0.282843,Greater London,Brent
+IG1 1AA,51.558255,0.072064,Greater London,Redbridge
+IG1 1AE,51.556748,0.081502,Greater London,Redbridge
+IG1 1EH,51.55459,0.071349,Greater London,Redbridge
+IG1 1LQ,51.559693,0.0939,Greater London,Redbridge
+IG1 1UQ,51.563217,0.091941,Greater London,Redbridge
+IG1 3AA,51.559439,0.069317,Greater London,Redbridge
+IG1 3AG,51.566927,0.059645,Greater London,Redbridge
+IG1 4AD,51.566568,0.083581,Greater London,Redbridge
+IG1 4UJ,51.578003,0.069527,Greater London,Redbridge
+IG11 0AE,51.531169,0.109388,Greater London,Barking and Dagenham
+IG11 0AL,51.534517,0.088173,Greater London,Barking and Dagenham
+IG11 0TJ,51.532771,0.102929,Greater London,Barking and Dagenham
+IG11 7AR,51.534399,0.07708,Greater London,Barking and Dagenham
+IG11 8FF,51.548687,0.091851,Greater London,Barking and Dagenham
+IG11 9BY,51.550758,0.107251,Greater London,Barking and Dagenham
+IG2 6BE,51.574762,0.084461,Greater London,Redbridge
+IG3 8AW,51.568008,0.101165,Greater London,Redbridge
+IG3 8XT,51.580129,0.115739,Greater London,Redbridge
+IG4 5AN,51.576303,0.048003,Greater London,Redbridge
+IG5 0AU,51.591373,0.062988,Greater London,Redbridge
+IG5 0XR,51.595595,0.07551,Greater London,Redbridge
+IG6 3AA,51.604414,0.094426,Greater London,Redbridge
+IG7 4BB,51.609262,0.022536,Greater London,Redbridge
+KT1 1AA,51.408688,-0.304465,Greater London,Kingston upon Thames
+KT1 1DZ,51.40782,-0.309142,Greater London,Richmond upon Thames
+KT1 1HG,51.402899,-0.256234,Greater London,Kingston upon Thames
+KT1 1NZ,51.404778,-0.292849,Greater London,Kingston upon Thames
+KT1 1PS,51.413746,-0.307895,Greater London,Kingston upon Thames
+KT1 2HP,51.399478,-0.301887,Greater London,Kingston upon Thames
+KT1 3RF,51.411131,-0.280813,Greater London,Kingston upon Thames
+KT1 3RN,51.4108,-0.280345,Greater London,Kingston upon Thames
+KT1 4AZ,51.412046,-0.31724,Greater London,Richmond upon Thames
+KT17 2DF,51.366115,-0.233693,Greater London,Sutton
+KT17 3HL,51.337279,-0.228029,Greater London,Sutton
+KT18 7TR,51.337565,-0.305641,Greater London,Kingston upon Thames
+KT2 5AB,51.419459,-0.303139,Greater London,Kingston upon Thames
+KT2 5FA,51.427081,-0.293606,Greater London,Richmond upon Thames
+KT3 3LL,51.398053,-0.256312,Greater London,Kingston upon Thames
+KT3 4BF,51.39954,-0.245105,Greater London,Merton
+KT3 4PN,51.403166,-0.237427,Greater London,Merton
+KT3 5JH,51.389647,-0.260038,Greater London,Kingston upon Thames
+KT4 7GN,51.379976,-0.242902,Greater London,Sutton
+KT4 7QA,51.376611,-0.265748,Greater London,Kingston upon Thames
+KT4 7QG,51.373144,-0.2745,Greater London,Kingston upon Thames
+KT5 8AX,51.389503,-0.290621,Greater London,Kingston upon Thames
+KT5 9AT,51.38508,-0.291297,Greater London,Kingston upon Thames
+KT8 9AN,51.406791,-0.348605,Greater London,Richmond upon Thames
+KT9 1AA,51.367473,-0.305663,Greater London,Kingston upon Thames
+N1 0AA,51.539442,-0.117873,Greater London,Islington
+N1 0AS,51.535941,-0.122689,Greater London,Camden
+N1 0BG,51.538425,-0.103278,Greater London,Islington
+N1 0DG,51.53474,-0.107858,Greater London,Islington
+N1 2AY,51.543181,-0.091572,Greater London,Islington
+N1 2LE,51.546489,-0.100938,Greater London,Islington
+N10 1AA,51.600529,-0.150711,Greater London,Barnet
+N10 1AF,51.604002,-0.156378,Greater London,Haringey
+N10 1DR,51.59056,-0.143565,Greater London,Haringey
+N10 1JW,51.605326,-0.157653,Greater London,Barnet
+N10 3JF,51.585237,-0.148113,Greater London,Haringey
+N11 1AA,51.615924,-0.134817,Greater London,Enfield
+N11 1RW,51.609244,-0.110712,Greater London,Enfield
+N11 2AA,51.609002,-0.130422,Greater London,Haringey
+N12 0AA,51.609947,-0.174841,Greater London,Barnet
+N12 0BH,51.610956,-0.178075,Greater London,Barnet
+N12 0DX,51.616896,-0.180697,Greater London,Barnet
+N12 7BN,51.614976,-0.20178,Greater London,Barnet
+N13 4AA,51.620963,-0.107524,Greater London,Enfield
+N13 4AB,51.621464,-0.108991,Greater London,Enfield
+N13 6AJ,51.607928,-0.096599,Greater London,Haringey
+N13 6BD,51.614361,-0.091289,Greater London,Enfield
+N14 4AF,51.630604,-0.128305,Greater London,Enfield
+N15 3AA,51.584643,-0.09252,Greater London,Haringey
+N15 3AF,51.589103,-0.101385,Greater London,Haringey
+N15 3AG,51.576105,-0.097279,Greater London,Haringey
+N15 3DB,51.587148,-0.098955,Greater London,Haringey
+N15 3XF,51.560816,-0.131288,Greater London,Islington
+N15 4AA,51.586597,-0.086621,Greater London,Haringey
+N15 4AD,51.588507,-0.084087,Greater London,Haringey
+N15 6RB,51.574356,-0.0865,Greater London,Hackney
+N15 9BR,51.565921,-0.122089,Greater London,Islington
+N16 0AA,51.565965,-0.081427,Greater London,Hackney
+N16 0AN,51.564725,-0.087597,Greater London,Hackney
+N16 0AW,51.570059,-0.077214,Greater London,Hackney
+N17 0AA,51.598757,-0.067555,Greater London,Haringey
+N17 0AE,51.6009,-0.067541,Greater London,Haringey
+N18 1BD,51.616394,-0.083071,Greater London,Enfield
+N18 1SA,51.616286,-0.072647,Greater London,Enfield
+N19 3AA,51.571541,-0.125999,Greater London,Islington
+N19 3PJ,51.560583,-0.124589,Greater London,Islington
+N19 5AA,51.556321,-0.138151,Greater London,Camden
+N2 0AA,51.586175,-0.170131,Greater London,Barnet
+N22 4FD,51.596437,-0.117337,Greater London,Haringey
+N3 1AY,51.601507,-0.195059,Greater London,Barnet
+N4 1RF,51.574661,-0.105248,Greater London,Haringey
+N4 2AA,51.564829,-0.103954,Greater London,Hackney
+N4 2AD,51.560673,-0.106104,Greater London,Islington
+N4 2AL,51.56593,-0.106968,Greater London,Islington
+N4 4SR,51.576233,-0.115606,Greater London,Haringey
+N7 0AW,51.550181,-0.119088,Greater London,Islington
+N7 9AB,51.542633,-0.126769,Greater London,Camden
+N8 0DA,51.58828,-0.113343,Greater London,Haringey
+N8 0HW,51.535964,-0.194669,Greater London,Brent
+N9 0AA,51.627631,-0.045248,Greater London,Enfield
+NW1 0AA,51.536739,-0.139484,Greater London,Camden
+NW1 0AE,51.53753,-0.140464,Greater London,Camden
+NW1 2AE,51.526815,-0.131674,Greater London,Camden
+NW1 3AU,51.523677,-0.143187,Greater London,Westminster
+NW1 5AA,51.52159,-0.160786,Greater London,Westminster
+NW1 5AW,51.520973,-0.168494,Greater London,Westminster
+NW1 5BH,51.518108,-0.168133,Greater London,Westminster
+NW1 8AJ,51.542921,-0.148274,Greater London,Camden
+NW10 0AA,51.55912,-0.249279,Greater London,Brent
+NW10 0AB,51.553022,-0.253283,Greater London,Brent
+NW10 0AF,51.561105,-0.255175,Greater London,Brent
+NW10 0BS,51.533954,-0.248298,Greater London,Brent
+NW10 0NZ,51.519575,-0.264647,Greater London,Ealing
+NW10 1AQ,51.549584,-0.239996,Greater London,Brent
+NW10 2AA,51.542536,-0.227606,Greater London,Brent
+NW10 3AQ,51.538263,-0.239409,Greater London,Brent
+NW10 3DT,51.537027,-0.2195,Greater London,Brent
+NW10 4UY,51.532215,-0.244938,Greater London,Hammersmith and Fulham
+NW11 0AG,51.586867,-0.20088,Greater London,Barnet
+NW11 0NX,51.576063,-0.197727,Greater London,Barnet
+NW11 9JQ,51.579952,-0.213276,Greater London,Barnet
+NW11 9JU,51.586867,-0.21032,Greater London,Barnet
+NW2 1ER,51.556608,-0.215634,Greater London,Brent
+NW2 2BT,51.55754,-0.198344,Greater London,Camden
+NW2 6BA,51.565606,-0.226666,Greater London,Brent
+NW3 1AA,51.559003,-0.177786,Greater London,Camden
+NW3 1DJ,51.556054,-0.179592,Greater London,Camden
+NW3 2AN,51.550937,-0.162848,Greater London,Camden
+NW3 2EW,51.54864,-0.165465,Greater London,Camden
+NW3 3AQ,51.541735,-0.171871,Greater London,Camden
+NW3 5DY,51.550729,-0.184132,Greater London,Camden
+NW4 4SF,51.593847,-0.240162,Greater London,Barnet
+NW6 5DB,51.532398,-0.201903,Greater London,Westminster
+NW6 5EA,51.532844,-0.190611,Greater London,Westminster
+NW6 5JG,51.536412,-0.185826,Greater London,Westminster
+NW8 8HF,51.521792,-0.173751,Greater London,Westminster
+NW9 0AA,51.584509,-0.260414,Greater London,Brent
+RM1 1AA,51.5776,0.178261,Greater London,Havering
+RM1 1AE,51.57025,0.170637,Greater London,Havering
+RM1 1DS,51.583952,0.175187,Greater London,Havering
+RM1 1HA,51.567803,0.136884,Greater London,Barking and Dagenham
+RM1 2AR,51.566302,0.187228,Greater London,Havering
+RM1 4BN,51.602939,0.180035,Greater London,Havering
+RM1 4DQ,51.607021,0.203165,Greater London,Havering
+RM1 4QL,51.586274,0.171831,Greater London,Havering
+RM10 7AA,51.554173,0.168068,Greater London,Barking and Dagenham
+RM10 7AE,51.560634,0.15174,Greater London,Barking and Dagenham
+RM10 7AN,51.55125,0.152956,Greater London,Barking and Dagenham
+RM10 7BZ,51.542237,0.165799,Greater London,Barking and Dagenham
+RM10 8QT,51.539686,0.149987,Greater London,Barking and Dagenham
+RM11 1AX,51.565017,0.218205,Greater London,Havering
+RM11 2AA,51.573165,0.204947,Greater London,Havering
+RM11 2AT,51.578219,0.218617,Greater London,Havering
+RM11 3AX,51.562537,0.234648,Greater London,Havering
+RM11 3XJ,51.558734,0.237448,Greater London,Havering
+RM12 4AU,51.549615,0.192789,Greater London,Havering
+RM13 0AA,51.516766,0.19212,Greater London,Havering
+RM13 7AA,51.530454,0.189231,Greater London,Havering
+RM14 1AB,51.552369,0.246757,Greater London,Havering
+RM5 2BG,51.593279,0.144331,Greater London,Barking and Dagenham
+RM8 1BD,51.560482,0.146279,Greater London,Barking and Dagenham
+RM8 2AE,51.547738,0.125631,Greater London,Barking and Dagenham
+RM8 3AA,51.555003,0.141506,Greater London,Barking and Dagenham
+RM9 4EU,51.536854,0.122802,Greater London,Barking and Dagenham
+SE1 0AB,51.504038,-0.095542,Greater London,Southwark
+SE1 0DE,51.492762,-0.080152,Greater London,Southwark
+SE1 1AA,51.502166,-0.092148,Greater London,Southwark
+SE1 2AN,51.498086,-0.071961,Greater London,Southwark
+SE1 3AH,51.494079,-0.07383,Greater London,Southwark
+SE1 4AF,51.493526,-0.092768,Greater London,Southwark
+SE1 4SA,51.48525,-0.081591,Greater London,Southwark
+SE1 5AA,51.486999,-0.074664,Greater London,Southwark
+SE1 7AA,51.502142,-0.110552,Greater London,Lambeth
+SE1 7AG,51.492651,-0.120395,Greater London,Lambeth
+SE10 0AA,51.487122,0.003284,Greater London,Greenwich
+SE10 0JX,51.48373,0.019613,Greater London,Greenwich
+SE10 8AA,51.472256,-0.012487,Greater London,Lewisham
+SE10 8BB,51.47403,-0.019033,Greater London,Greenwich
+SE11 4AF,51.489149,-0.098453,Greater London,Southwark
+SE11 4AX,51.482789,-0.10657,Greater London,Lambeth
+SE12 0AA,51.449266,0.013068,Greater London,Lewisham
+SE12 0AH,51.443919,0.017553,Greater London,Lewisham
+SE12 0RL,51.445511,0.004959,Greater London,Lewisham
+SE12 8AL,51.45105,0.020156,Greater London,Greenwich
+SE12 8BE,51.459366,0.022927,Greater London,Greenwich
+SE13 6BF,51.450077,-0.014417,Greater London,Lewisham
+SE13 7AA,51.460568,-0.01691,Greater London,Lewisham
+SE13 7QD,51.472933,-0.021687,Greater London,Lewisham
+SE14 5AA,51.474867,-0.046933,Greater London,Lewisham
+SE14 5AJ,51.474645,-0.045517,Greater London,Lewisham
+SE14 5BE,51.477929,-0.053182,Greater London,Southwark
+SE14 6AZ,51.480639,-0.034419,Greater London,Lewisham
+SE15 1AA,51.47681,-0.068163,Greater London,Southwark
+SE15 1BX,51.471766,-0.070925,Greater London,Southwark
+SE15 3AA,51.459322,-0.056868,Greater London,Southwark
+SE15 4AF,51.463105,-0.07797,Greater London,Southwark
+SE15 5AH,51.469935,-0.076056,Greater London,Southwark
+SE16 1AA,51.491797,-0.042421,Greater London,Southwark
+SE16 1AE,51.492598,-0.041955,Greater London,Southwark
+SE17 3UN,51.481937,-0.099012,Greater London,Southwark
+SE18 1AA,51.484461,0.084733,Greater London,Greenwich
+SE18 1AF,51.488145,0.086428,Greater London,Greenwich
+SE18 1DT,51.489548,0.067147,Greater London,Greenwich
+SE18 4AB,51.487551,0.057504,Greater London,Greenwich
+SE18 4BL,51.484831,0.049462,Greater London,Greenwich
+SE18 4DA,51.473578,0.045038,Greater London,Greenwich
+SE19 1AA,51.420963,-0.086067,Greater London,Lambeth
+SE19 1AD,51.41893,-0.083319,Greater London,Croydon
+SE19 1HA,51.424516,-0.082268,Greater London,Southwark
+SE19 1UE,51.423864,-0.074338,Greater London,Bromley
+SE19 3BH,51.42285,-0.097596,Greater London,Lambeth
+SE2 0AS,51.4776,0.116405,Greater London,Greenwich
+SE2 0DJ,51.498497,0.10445,Greater London,Greenwich
+SE21 7AB,51.442419,-0.088235,Greater London,Southwark
+SE21 8BF,51.43671,-0.092229,Greater London,Lambeth
+SE22 0AA,51.447688,-0.072271,Greater London,Southwark
+SE22 8AA,51.463869,-0.083369,Greater London,Southwark
+SE23 1AA,51.443737,-0.049272,Greater London,Lewisham
+SE23 1AP,51.436445,-0.053119,Greater London,Lewisham
+SE23 1HS,51.442611,-0.058915,Greater London,Lewisham
+SE24 0AA,51.464,-0.09315,Greater London,Lambeth
+SE24 0DN,51.458151,-0.105111,Greater London,Lambeth
+SE26 4AN,51.429347,-0.044847,Greater London,Lewisham
+SE27 9AT,51.439245,-0.10657,Greater London,Lambeth
+SE5 0RR,51.477396,-0.101837,Greater London,Lambeth
+SE6 1AT,51.444864,-0.007733,Greater London,Lewisham
+SE9 1AE,51.467265,0.053786,Greater London,Greenwich
+SM1 1AP,51.369828,-0.194735,Greater London,Sutton
+SM1 1BD,51.359327,-0.193148,Greater London,Sutton
+SM1 1TP,51.353103,-0.197701,Greater London,Sutton
+SM1 2ER,51.372499,-0.208265,Greater London,Sutton
+SM1 3AS,51.369615,-0.181551,Greater London,Sutton
+SM1 3HA,51.383865,-0.190619,Greater London,Sutton
+SM1 3QB,51.367427,-0.176135,Greater London,Sutton
+SM3 2TN,51.369598,-0.1597,Greater London,Sutton
+SM3 9HG,51.382933,-0.215503,Greater London,Merton
+SM4 4AD,51.39792,-0.217608,Greater London,Merton
+SM4 5AA,51.400391,-0.200386,Greater London,Merton
+SM5 3HG,51.356986,-0.155968,Greater London,Sutton
+SW10 0AA,51.477517,-0.17973,Greater London,Hammersmith and Fulham
+SW10 0AB,51.478206,-0.183053,Greater London,Kensington and Chelsea
+SW10 0AD,51.485945,-0.18047,Greater London,Kensington and Chelsea
+SW10 0EU,51.484753,-0.183628,Greater London,Kensington and Chelsea
+SW10 0SY,51.479732,-0.186953,Greater London,Hammersmith and Fulham
+SW10 9PY,51.487352,-0.179002,Greater London,Kensington and Chelsea
+SW11 1AA,51.46448,-0.164321,Greater London,Wandsworth
+SW11 1AD,51.462121,-0.173342,Greater London,Wandsworth
+SW11 1HS,51.456653,-0.173315,Greater London,Wandsworth
+SW11 2AP,51.464019,-0.176865,Greater London,Wandsworth
+SW11 3AA,51.472608,-0.1659,Greater London,Wandsworth
+SW11 4BA,51.476232,-0.160826,Greater London,Wandsworth
+SW11 6AA,51.453729,-0.1577,Greater London,Wandsworth
+SW12 0AA,51.448263,-0.142435,Greater London,Lambeth
+SW12 0BH,51.453552,-0.144206,Greater London,Lambeth
+SW12 8AS,51.447569,-0.156552,Greater London,Wandsworth
+SW12 9BA,51.441941,-0.153814,Greater London,Wandsworth
+SW13 0AA,51.471836,-0.248994,Greater London,Richmond upon Thames
+SW13 0BH,51.472825,-0.241166,Greater London,Richmond upon Thames
+SW13 9HB,51.475306,-0.375766,Greater London,Hounslow
+SW14 7AA,51.4614,-0.269921,Greater London,Richmond upon Thames
+SW14 7BB,51.465757,-0.273888,Greater London,Richmond upon Thames
+SW14 7BU,51.470998,-0.273734,Greater London,Richmond upon Thames
+SW15 1AA,51.464123,-0.222848,Greater London,Wandsworth
+SW15 1BZ,51.460362,-0.218598,Greater London,Wandsworth
+SW15 3AA,51.452653,-0.230931,Greater London,Wandsworth
+SW15 3AN,51.438124,-0.2479,Greater London,Wandsworth
+SW15 3HX,51.450196,-0.218332,Greater London,Wandsworth
+SW16 1AA,51.438392,-0.130763,Greater London,Lambeth
+SW16 1DG,51.436585,-0.127398,Greater London,Lambeth
+SW16 1NR,51.42695,-0.143544,Greater London,Wandsworth
+SW17 0AA,51.433773,-0.182961,Greater London,Wandsworth
+SW17 0AX,51.432955,-0.185928,Greater London,Merton
+SW17 0BP,51.430507,-0.181738,Greater London,Wandsworth
+SW18 1LS,51.452658,-0.19931,Greater London,Wandsworth
+SW18 4RT,51.49534,-0.190223,Greater London,Kensington and Chelsea
+SW19 1AA,51.421629,-0.186218,Greater London,Merton
+SW19 1FD,51.417014,-0.213582,Greater London,Merton
+SW19 1FS,51.414967,-0.201481,Greater London,Merton
+SW1A 0WG,51.496429,-0.137437,Greater London,Westminster
+SW1E 5LE,51.496154,-0.144522,Greater London,Westminster
+SW1H 0RL,51.488406,-0.166443,Greater London,Kensington and Chelsea
+SW1P 2NS,51.492446,-0.13747,Greater London,Westminster
+SW1P 3BG,51.498366,-0.229435,Greater London,Hammersmith and Fulham
+SW1V 3AA,51.48634,-0.142573,Greater London,Westminster
+SW1W 0AD,51.496644,-0.147614,Greater London,Westminster
+SW1X 0AA,51.497343,-0.159457,Greater London,Kensington and Chelsea
+SW2 1AA,51.454693,-0.119331,Greater London,Lambeth
+SW2 1AH,51.454189,-0.120446,Greater London,Lambeth
+SW2 5BU,51.460363,-0.126929,Greater London,Lambeth
+SW3 1JA,51.46324,-0.139336,Greater London,Lambeth
+SW4 6AN,51.472528,-0.126805,Greater London,Lambeth
+SW4 6AS,51.468812,-0.127738,Greater London,Lambeth
+SW5 0AD,51.492289,-0.189466,Greater London,Kensington and Chelsea
+SW6 1AB,51.480985,-0.198209,Greater London,Hammersmith and Fulham
+SW6 1TH,51.485784,-0.20211,Greater London,Hammersmith and Fulham
+SW6 3BQ,51.468532,-0.210611,Greater London,Hammersmith and Fulham
+SW6 5EA,51.474908,-0.210098,Greater London,Hammersmith and Fulham
+SW6 6AR,51.481789,-0.223127,Greater London,Hammersmith and Fulham
+SW7 2EZ,51.501212,-0.180337,Greater London,Kensington and Chelsea
+TW1 1AA,51.450115,-0.331333,Greater London,Richmond upon Thames
+TW1 1AE,51.456007,-0.336573,Greater London,Hounslow
+TW1 1RN,51.454618,-0.311731,Greater London,Richmond upon Thames
+TW1 3EY,51.442527,-0.346712,Greater London,Richmond upon Thames
+TW1 3SQ,51.444999,-0.330793,Greater London,Richmond upon Thames
+TW10 5AJ,51.461474,-0.288445,Greater London,Richmond upon Thames
+TW11 0EN,51.427645,-0.346033,Greater London,Richmond upon Thames
+TW12 1AA,51.432255,-0.375409,Greater London,Richmond upon Thames
+TW13 4AA,51.445927,-0.415763,Greater London,Hounslow
+TW13 4AB,51.443553,-0.411155,Greater London,Hounslow
+TW13 4PN,51.431757,-0.413276,Greater London,Hounslow
+TW14 0AA,51.450907,-0.405013,Greater London,Hounslow
+TW14 0DE,51.460323,-0.39789,Greater London,Hounslow
+TW14 0HN,51.459073,-0.399158,Greater London,Hounslow
+TW14 0PN,51.469585,-0.417723,Greater London,Hillingdon
+TW14 0PR,51.465829,-0.423288,Greater London,Hounslow
+TW2 6AA,51.444384,-0.374057,Greater London,Richmond upon Thames
+TW2 7AA,51.451724,-0.367694,Greater London,Richmond upon Thames
+TW3 1AA,51.470271,-0.360985,Greater London,Hounslow
+TW3 1HU,51.469087,-0.36696,Greater London,Hounslow
+TW3 2DL,51.46179,-0.361534,Greater London,Hounslow
+TW3 4AY,51.477003,-0.363984,Greater London,Hounslow
+TW5 0AF,51.484553,-0.381227,Greater London,Hounslow
+TW5 0TH,51.480171,-0.357678,Greater London,Hounslow
+TW7 4AZ,51.481787,-0.315711,Greater London,Hounslow
+TW8 0AF,51.488023,-0.300372,Greater London,Hounslow
+TW8 0EH,51.488968,-0.286278,Greater London,Hounslow
+TW8 9LX,51.495831,-0.323679,Greater London,Ealing
+UB1 1AA,51.5075,-0.378483,Greater London,Ealing
+UB1 1HF,51.50371,-0.414351,Greater London,Hillingdon
+UB1 1PZ,51.512512,-0.378104,Greater London,Ealing
+UB1 2AR,51.516828,-0.379363,Greater London,Ealing
+UB1 2FJ,51.531712,-0.374863,Greater London,Ealing
+UB1 3AN,51.508237,-0.36618,Greater London,Ealing
+UB10 0AA,51.536985,-0.471592,Greater London,Hillingdon
+UB10 0AE,51.541811,-0.4727,Greater London,Hillingdon
+UB10 0AX,51.537333,-0.487341,Greater London,Hillingdon
+UB10 0BY,51.534245,-0.449869,Greater London,Hillingdon
+UB10 0QE,51.53592,-0.441205,Greater London,Hillingdon
+UB10 8AA,51.559601,-0.466117,Greater London,Hillingdon
+UB11 1AA,51.512376,-0.444386,Greater London,Hillingdon
+UB11 1BF,51.508964,-0.453581,Greater London,Hillingdon
+UB11 1BH,51.50791,-0.459625,Greater London,Hillingdon
+UB18 7AT,51.500719,-0.402684,Greater London,Ealing
+UB2 4RY,51.502255,-0.341669,Greater London,Ealing
+UB3 1GW,51.502309,-0.449455,Greater London,Hillingdon
+UB4 0HD,51.514175,-0.390439,Greater London,Hillingdon
+UB5 4AA,51.548212,-0.368441,Greater London,Ealing
+UB5 4LD,51.552607,-0.352157,Greater London,Ealing
+UB5 5AF,51.542794,-0.379133,Greater London,Ealing
+UB9 6AA,51.592678,-0.483771,Greater London,Hillingdon
+W10 4AA,51.529068,-0.215875,Greater London,Westminster
+W10 4EZ,51.511058,-0.220758,Greater London,Hammersmith and Fulham
+W10 4RA,51.52803,-0.21667,Greater London,Kensington and Chelsea
+W10 4RD,51.525898,-0.206744,Greater London,Kensington and Chelsea
+W10 4WL,51.513921,-0.321631,Greater London,Ealing
+W10 5NE,51.517375,-0.209788,Greater London,Kensington and Chelsea
+W10 5UJ,51.518419,-0.212183,Greater London,Kensington and Chelsea
+W10 6EW,51.513212,-0.21856,Greater London,Kensington and Chelsea
+W11 1AA,51.520271,-0.200435,Greater London,Westminster
+W11 1NS,51.515188,-0.209658,Greater London,Kensington and Chelsea
+W11 2AB,51.514105,-0.198819,Greater London,Kensington and Chelsea
+W11 2AH,51.516164,-0.199444,Greater London,Westminster
+W11 3FE,51.508923,-0.195738,Greater London,Kensington and Chelsea
+W11 3RE,51.507003,-0.206045,Greater London,Kensington and Chelsea
+W12 0DD,51.513605,-0.248234,Greater London,Hammersmith and Fulham
+W12 0NU,51.50665,-0.242083,Greater London,Hammersmith and Fulham
+W12 8EP,51.500387,-0.234039,Greater London,Hammersmith and Fulham
+W12 8LE,51.503159,-0.216383,Greater London,Hammersmith and Fulham
+W12 9TQ,51.500509,-0.252405,Greater London,Hounslow
+W13 0TA,51.50967,-0.325549,Greater London,Ealing
+W13 8AA,51.515248,-0.320746,Greater London,Ealing
+W14 0AG,51.496734,-0.212513,Greater London,Hammersmith and Fulham
+W1A 0AA,51.517133,-0.134244,Greater London,Westminster
+W2 1GF,51.500495,-0.276985,Greater London,Ealing
+W2 3AA,51.51318,-0.182613,Greater London,Westminster
+W3 0AA,51.519838,-0.268414,Greater London,Ealing
+W3 0BD,51.505339,-0.256096,Greater London,Ealing
+W3 8BZ,51.49749,-0.275614,Greater London,Hounslow
+W3 9AA,51.502707,-0.282449,Greater London,Ealing
+W7 1AA,51.518505,-0.337894,Greater London,Ealing
